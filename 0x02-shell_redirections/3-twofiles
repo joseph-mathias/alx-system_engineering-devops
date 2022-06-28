@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i tecmint /etc/passwd| grep /etc/host
+cat /etc/passwd /etc/hosts
